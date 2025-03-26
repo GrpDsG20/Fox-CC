@@ -1,5 +1,3 @@
-# Fox CC
-[-] Black Fox CC Tools 
 # Features
 > [&] Fast & easy 
 
@@ -20,7 +18,7 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/BlackFoxTM/Fox-CC
+git clone https://github.com/GrpDsG20/Fox-CC
 ```
 ```
 cd Fox-CC
