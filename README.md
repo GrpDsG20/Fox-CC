@@ -1,30 +1,42 @@
-Fox CC
-[-] Black Fox CC Tools
+# Fox CC
+[-] Black Fox CC Tools 
+# Features
+> [&] Fast & easy 
 
-Features
-[&] Fast & easy
+> [&] Generate a valid card
 
-[&] Generate a valid card
+> [&] Generate multi valid card
 
-[&] Generate multi valid card
+> [&] Credit Card Valid Checker 
 
-[&] Credit Card Valid Checker
+> [&] Generate Multi Bin Numbers
 
-[&] Generate Multi Bin Numbers
+> [&] Without limit & Free
 
-[&] Without limit & Free
 
-Installation-Linux-Termux
+# Installation-Linux-Termux
 
+```
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
-git clone https://github.com/GrpDsG20/Fox-CC
+```
+```
+git clone https://github.com/BlackFoxTM/Fox-CC
+```
+```
 cd Fox-CC
+```
+```
 pip3 install -r requirements.txt
+```
+```
 python3 cc.py
+```
 
+# Installation-Windows
+### Download NodeJs Installer from [This Link](https://nodejs.org/en/)
 
-Installation-Windows
-Download NodeJs Installer from This Link
-Then Download This project as zip
-After That Open Cmd and go the Directory that you downloaded
-run python cc.py
+### Then Download This project as zip 
+
+### After That Open Cmd and go the Directory that you downloaded 
+
+## run `python cc.py`
