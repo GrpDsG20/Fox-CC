@@ -38,3 +38,6 @@ python3 cc.py
 ### After That Open Cmd and go the Directory that you downloaded 
 
 ## run `python cc.py`
+
+
+![Image](https://github.com/user-attachments/assets/6746fc6f-23dc-4b7e-9053-71bdae757790)
